@@ -1,0 +1,415 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 649,
+      "max": [
+        2.663602828979492,
+        1.0,
+        2.454505443572998
+      ],
+      "min": [
+        -2.576962947845459,
+        -11.583253860473633,
+        -2.532724618911743
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7788,
+      "componentType": 5126,
+      "count": 649,
+      "max": [
+        0.9999426603317261,
+        0.6857142448425293,
+        1.0
+      ],
+      "min": [
+        -0.9999426603317261,
+        -0.6857142448425293,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 649,
+      "max": [
+        1.0,
+        0.7204961776733398,
+        1.0,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -0.7204960584640503,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 649,
+      "max": [
+        0.9798733592033386,
+        0.9684022665023804
+      ],
+      "min": [
+        0.012735238298773766,
+        0.03137826919555664
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5192,
+      "componentType": 5126,
+      "count": 649,
+      "max": [
+        0.9798733592033386,
+        0.9684022665023804
+      ],
+      "min": [
+        0.012735238298773766,
+        0.03137826919555664
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15576,
+      "componentType": 5126,
+      "count": 273,
+      "max": [
+        3.2466530799865723,
+        0.5225048065185547,
+        2.448138475418091
+      ],
+      "min": [
+        -3.2466530799865723,
+        -12.64326286315918,
+        -2.448138475418091
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18852,
+      "componentType": 5126,
+      "count": 273,
+      "max": [
+        0.9840273261070251,
+        1.0,
+        0.9979637265205383
+      ],
+      "min": [
+        -0.9840273261070251,
+        -0.9946740865707397,
+        -0.9979637265205383
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 10384,
+      "componentType": 5126,
+      "count": 273,
+      "max": [
+        1.0,
+        0.9965242743492126,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9840276837348938,
+        -0.9956497550010681,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10384,
+      "componentType": 5126,
+      "count": 273,
+      "max": [
+        0.9844418168067932,
+        0.9448554515838623
+      ],
+      "min": [
+        0.0225144661962986,
+        0.005573391914367676
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12480,
+      "componentType": 5125,
+      "count": 1242,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "VRC-IW (https://sketchfab.com/VRC-IW)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/jagermeister-07l-bottle-japan-bb64d4d1448b47ccb788656e5d522ec9",
+      "title": "Jägermeister 0.7L bottle (Japan)"
+    },
+    "generator": "Sketchfab-11.29.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 17448,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12568,
+      "byteOffset": 17448,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22128,
+      "byteOffset": 30016,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14752,
+      "byteOffset": 52144,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 66896,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_transmission"
+  ],
+  "images": [
+    {
+      "uri": "textures/jager_label_baseColor.png"
+    },
+    {
+      "uri": "textures/jager_label_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "jager_label",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0545454,
+        "roughnessFactor": 0.331818
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 0.0020000000000000018
+        }
+      },
+      "name": "bottle",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0051795,
+          0.0071936,
+          0.00253964,
+          0.998
+        ],
+        "metallicFactor": 0.713090308811995,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.26807600259780884,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.3186398446559906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.26807600259780884,
+        0.0,
+        0.0,
+        4.040674209594727,
+        0.0,
+        1.0
+      ],
+      "name": "Jager_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
