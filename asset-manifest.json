@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.3a2f9a8d.css",
-    "main.js": "/test/static/js/main.312961f8.js",
+    "main.css": "/test/static/css/main.ce72b948.css",
+    "main.js": "/test/static/js/main.a7ab039b.js",
     "static/media/ten_abgreen_bg.jpg": "/test/static/media/ten_abgreen_bg.eaf4d85a133117d9b79f.jpg",
     "static/media/jager.glb": "/test/static/media/jager.655505b46c412f24fd0a.glb",
     "static/media/nth_s_img.png": "/test/static/media/nth_s_img.65319c704b0809a30ab3.png",
@@ -21,11 +21,11 @@
     "static/media/jagger_logo.png": "/test/static/media/jagger_logo.189e6e4150ad61717d71.png",
     "static/media/marker.png": "/test/static/media/marker.fde0ac9ee9b87f5a43db.png",
     "index.html": "/test/index.html",
-    "main.3a2f9a8d.css.map": "/test/static/css/main.3a2f9a8d.css.map",
-    "main.312961f8.js.map": "/test/static/js/main.312961f8.js.map"
+    "main.ce72b948.css.map": "/test/static/css/main.ce72b948.css.map",
+    "main.a7ab039b.js.map": "/test/static/js/main.a7ab039b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a2f9a8d.css",
-    "static/js/main.312961f8.js"
+    "static/css/main.ce72b948.css",
+    "static/js/main.a7ab039b.js"
   ]
 }
