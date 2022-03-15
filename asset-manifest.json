@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.743b3823.css",
-    "main.js": "/test/static/js/main.8505a37b.js",
+    "main.css": "/test/static/css/main.3a2f9a8d.css",
+    "main.js": "/test/static/js/main.312961f8.js",
     "static/media/ten_abgreen_bg.jpg": "/test/static/media/ten_abgreen_bg.eaf4d85a133117d9b79f.jpg",
+    "static/media/jager.glb": "/test/static/media/jager.655505b46c412f24fd0a.glb",
     "static/media/nth_s_img.png": "/test/static/media/nth_s_img.65319c704b0809a30ab3.png",
     "static/media/s_sec_absgreen_bg.png": "/test/static/media/s_sec_absgreen_bg.a66cbf624968936b41ec.png",
     "static/media/svth_bg_dark.png": "/test/static/media/svth_bg_dark.1934d23ab4e4f53c04c1.png",
@@ -18,12 +19,13 @@
     "static/media/th_manifest_bg.jpg": "/test/static/media/th_manifest_bg.71083869bb7281b7f896.jpg",
     "static/media/g_fourth_bg.jpg": "/test/static/media/g_fourth_bg.f408946eb448cce7fad9.jpg",
     "static/media/jagger_logo.png": "/test/static/media/jagger_logo.189e6e4150ad61717d71.png",
+    "static/media/marker.png": "/test/static/media/marker.fde0ac9ee9b87f5a43db.png",
     "index.html": "/test/index.html",
-    "main.743b3823.css.map": "/test/static/css/main.743b3823.css.map",
-    "main.8505a37b.js.map": "/test/static/js/main.8505a37b.js.map"
+    "main.3a2f9a8d.css.map": "/test/static/css/main.3a2f9a8d.css.map",
+    "main.312961f8.js.map": "/test/static/js/main.312961f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.743b3823.css",
-    "static/js/main.8505a37b.js"
+    "static/css/main.3a2f9a8d.css",
+    "static/js/main.312961f8.js"
   ]
 }
