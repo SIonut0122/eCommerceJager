@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.28123b13.css",
-    "main.js": "/test/static/js/main.bf66be2e.js",
+    "main.css": "/test/static/css/main.9c9d49ec.css",
+    "main.js": "/test/static/js/main.f3992692.js",
     "static/media/ten_abgreen_bg.jpg": "/test/static/media/ten_abgreen_bg.eaf4d85a133117d9b79f.jpg",
     "static/media/jager.glb": "/test/static/media/jager.655505b46c412f24fd0a.glb",
     "static/media/nth_s_img.png": "/test/static/media/nth_s_img.65319c704b0809a30ab3.png",
@@ -9,6 +9,7 @@
     "static/media/s_sec_absgreen_bg.png": "/test/static/media/s_sec_absgreen_bg.a66cbf624968936b41ec.png",
     "static/media/svth_bg_dark.png": "/test/static/media/svth_bg_dark.1934d23ab4e4f53c04c1.png",
     "static/media/g_dirty_bg.png": "/test/static/media/g_dirty_bg.f03ffc1946ba85038a00.png",
+    "static/media/ct_bg.png": "/test/static/media/ct_bg.f97bb913dfdfd5417959.png",
     "static/media/jagermeister-cold-brew-mini.png": "/test/static/media/jagermeister-cold-brew-mini.d997c586e4c8d2dedb9f.png",
     "static/media/ice_jag.png": "/test/static/media/ice_jag.0efbc7ab464eab8a5900.png",
     "static/media/svth_bg.jpg": "/test/static/media/svth_bg.377b7706b3936083068f.jpg",
@@ -34,11 +35,11 @@
     "static/media/jagger_logo.png": "/test/static/media/jagger_logo.189e6e4150ad61717d71.png",
     "static/media/marker.png": "/test/static/media/marker.fde0ac9ee9b87f5a43db.png",
     "index.html": "/test/index.html",
-    "main.28123b13.css.map": "/test/static/css/main.28123b13.css.map",
-    "main.bf66be2e.js.map": "/test/static/js/main.bf66be2e.js.map"
+    "main.9c9d49ec.css.map": "/test/static/css/main.9c9d49ec.css.map",
+    "main.f3992692.js.map": "/test/static/js/main.f3992692.js.map"
   },
   "entrypoints": [
-    "static/css/main.28123b13.css",
-    "static/js/main.bf66be2e.js"
+    "static/css/main.9c9d49ec.css",
+    "static/js/main.f3992692.js"
   ]
 }
