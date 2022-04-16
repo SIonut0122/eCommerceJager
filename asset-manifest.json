@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommJagger/static/css/main.22874c6c.css",
-    "main.js": "/ecommJagger/static/js/main.5a4bbe83.js",
+    "main.css": "/ecommJagger/static/css/main.a1dd29fd.css",
+    "main.js": "/ecommJagger/static/js/main.f638ef53.js",
     "static/media/ten_abgreen_bg.jpg": "/ecommJagger/static/media/ten_abgreen_bg.eaf4d85a133117d9b79f.jpg",
     "static/media/jager.glb": "/ecommJagger/static/media/jager.655505b46c412f24fd0a.glb",
     "static/media/nth_s_img.png": "/ecommJagger/static/media/nth_s_img.65319c704b0809a30ab3.png",
@@ -36,11 +36,11 @@
     "static/media/jagger_logo.png": "/ecommJagger/static/media/jagger_logo.189e6e4150ad61717d71.png",
     "static/media/marker.png": "/ecommJagger/static/media/marker.fde0ac9ee9b87f5a43db.png",
     "index.html": "/ecommJagger/index.html",
-    "main.22874c6c.css.map": "/ecommJagger/static/css/main.22874c6c.css.map",
-    "main.5a4bbe83.js.map": "/ecommJagger/static/js/main.5a4bbe83.js.map"
+    "main.a1dd29fd.css.map": "/ecommJagger/static/css/main.a1dd29fd.css.map",
+    "main.f638ef53.js.map": "/ecommJagger/static/js/main.f638ef53.js.map"
   },
   "entrypoints": [
-    "static/css/main.22874c6c.css",
-    "static/js/main.5a4bbe83.js"
+    "static/css/main.a1dd29fd.css",
+    "static/js/main.f638ef53.js"
   ]
 }
