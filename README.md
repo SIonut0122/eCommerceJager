@@ -4,14 +4,14 @@
 
 #### I built this personal project because i wanted to create an ecommerce website and integrate the three.js library. This website is meant to behave like a real ecommerce.
 
-# The user can:
+#### The user can:
     - view products info
     - navigate to the shop page
-   - add products to the cart
-    - select quantity
+	- add products to cart
+	- select quantity
     - store products to localStorage
     - view cart and remove existing products
-    - checkout & finish the order 
+	- checkout & finish the order 
 
 ## Description
 	 The user can add a product with the selected quantity from the shop page into the cart.The products are stored inside the localStorage until those are removed manually.
@@ -32,3 +32,10 @@
 - HTML, SCSS, Javascript
 - React.js, React-redux, React-router
 - Three.js
+
+
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj1.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj2.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj3.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj4.png)
+
