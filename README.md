@@ -1,6 +1,6 @@
 # eCommerce - Jagermeister design
 
-### Test the application: [eCommerceJagermeister](https://sionut0122.github.io/ecommercejager/)
+### Visit: [eCommerceJagermeister](https://sionut0122.github.io/ecommercejager/)
 
 #### I built this personal project because i wanted to create an ecommerce website and integrate the three.js library. This website is meant to behave like a real ecommerce.
 
