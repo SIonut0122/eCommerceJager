@@ -1,0 +1,218 @@
+
+
+$jcolor: rgb(233, 227, 199);
+$jcolorOrange: rgb(221, 90, 18);
+.fourth_section_container {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	box-sizing: border-box;
+	display: flex;
+}
+
+.fth_fth_wrhalf {
+	position: relative;
+	height: 100%;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+@keyframes fthspantxt_show_anim {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.fthspantxt_show {
+	animation: 1s fthspantxt_show_anim linear forwards;
+}
+
+.fth_fth_wrhalf_f {
+	width: 65%;
+	color: $jcolor;
+	font-weight: bold;
+	font-size: 65px;
+	text-transform: uppercase;
+	padding: 50px;
+	span {
+		opacity: 0;
+		animation-delay: .7s;
+	}
+	 :nth-child(3) {
+		font-size: 50px;
+		margin-top: 20px;
+		animation-delay: 1s;
+		span {
+			font-size: 20px;
+			color: $jcolorOrange;
+			animation-delay: 2s;
+		}
+	}
+}
+
+.fth_fth_wrhalf_wrpgls {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 50%;
+	top: 60%;
+	transform: translate(-50%, -60%);
+	opacity: 0;
+	display: block;
+	background: url('../media/fth_sec/shotglass_frozen.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	animation-delay: 2.5s;
+}
+
+.c_wct_sfb_hcmug_vapour {
+	position: absolute;
+	top: 0;
+	left: 40%;
+	display: flex;
+	width: 150px;
+	height: 150px;
+	transform: translateX(-40%);
+	span {
+		position: relative;
+		bottom: -25px;
+		display: block;
+		height: 80px;
+		min-width: 20px;
+		margin: 0 2px 0px;
+		animation: animate 7s linear infinite;
+		opacity: 0;
+		border-radius: 60%;
+		background-color: #fff;
+		filter: blur(15px);
+	}
+	span:nth-child(1) {
+		animation-delay: .3s;
+	}
+	span:nth-child(2) {
+		animation-delay: .8s;
+	}
+	span:nth-child(3) {
+		animation-delay: 1.3s;
+	}
+	span:nth-child(4) {
+		animation-delay: .7s;
+	}
+	span:nth-child(5) {
+		animation-delay: .5s;
+	}
+	span:nth-child(6) {
+		animation-delay: .9s;
+	}
+	span:nth-child(7) {
+		animation-delay: 1s;
+	}
+	span:nth-child(8) {
+		animation-delay: .8s;
+	}
+	span:nth-child(9) {
+		animation-delay: 1.5s;
+	}
+	span:nth-child(10) {
+		animation-delay: 1.2s;
+	}
+	span:nth-child(11) {
+		animation-delay: .2s;
+	}
+	span:nth-child(12) {
+		animation-delay: .5s;
+	}
+	@keyframes animate {
+		0% {
+			transform: translateY(0) scale(3);
+		}
+		15% {
+			opacity: 1;
+		}
+		50% {
+			transform: translateY(-50px) scale(4);
+		}
+		95% {
+			opacity: 0;
+		}
+		100% {
+			transform: translateY(-100px) scale(5);
+		}
+	}
+}
+
+.fth_fth_wrhalf_s {
+	width: 35%;
+}
+
+.fth_fth_s_wrbttl {
+	position: absolute;
+	width: 350px;
+	height: 500px;
+	bottom: 0;
+	left: 800px;
+	background: url('../media/fth_sec/ice_jag.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+
+.fth_rightbottle_show {
+	animation: 0.7s fthbottle_anim linear forwards;
+	animation-delay: 0.5s;
+}
+
+@keyframes fthbottle_anim {
+	from {
+		left: 800px;
+	}
+	to {
+		left: 70%;
+		transform: translateX(-70%);
+	}
+}
+
+@media screen and (max-width:680px) {
+	.fth_fth_wrhalf_f {
+		 :nth-child(3) {
+			font-size: 35px;
+			span {
+				font-size: 15px;
+			}
+		}
+	}
+}
+
+@media screen and (max-width:550px) {
+	.fth_fth_wrhalf_f {
+		width: 100%;
+		z-index: 2;
+		margin-top: -30px;
+		padding: 0 30px 0 30px;
+		justify-content: flex-start;
+		margin-top: 100px;
+	}
+	.fth_fth_wrhalf_s {
+		width: 0;
+	}
+	.fth_fth_s_wrbttl {
+		display: none;
+	}
+	.fth_fth_wrhalf_wrpgls {
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+}
+
+@media screen and (max-width:650px) {
+	.fth_fth_s_wrbttl {
+		display: none;
+	}
+}
+
