@@ -34,8 +34,8 @@
 - Three.js
 
 
-![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj1.png)
-![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj2.png)
-![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj3.png)
-![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/ecj4.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/1.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/2.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/3.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/4.png)
 
