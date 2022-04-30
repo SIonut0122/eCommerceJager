@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommercejager/static/css/main.699d6391.css",
-    "main.js": "/ecommercejager/static/js/main.f6b93b2a.js",
+    "main.css": "/ecommercejager/static/css/main.7574c2ca.css",
+    "main.js": "/ecommercejager/static/js/main.0906c29b.js",
     "static/media/jager.glb": "/ecommercejager/static/media/jager.655505b46c412f24fd0a.glb",
     "static/media/s_sec_video.mp4": "/ecommercejager/static/media/s_sec_video.d51618550f459fd1da92.mp4",
     "static/media/jager_spice.webp": "/ecommercejager/static/media/jager_spice.9ea9aa7397498ee67040.webp",
@@ -36,11 +36,11 @@
     "static/media/marker.png": "/ecommercejager/static/media/marker.fde0ac9ee9b87f5a43db.png",
     "static/media/s_sec_absgreen_bg.webp": "/ecommercejager/static/media/s_sec_absgreen_bg.573b149202fe586f814a.webp",
     "index.html": "/ecommercejager/index.html",
-    "main.699d6391.css.map": "/ecommercejager/static/css/main.699d6391.css.map",
-    "main.f6b93b2a.js.map": "/ecommercejager/static/js/main.f6b93b2a.js.map"
+    "main.7574c2ca.css.map": "/ecommercejager/static/css/main.7574c2ca.css.map",
+    "main.0906c29b.js.map": "/ecommercejager/static/js/main.0906c29b.js.map"
   },
   "entrypoints": [
-    "static/css/main.699d6391.css",
-    "static/js/main.f6b93b2a.js"
+    "static/css/main.7574c2ca.css",
+    "static/js/main.0906c29b.js"
   ]
 }
