@@ -1,0 +1,124 @@
+
+
+$jcolor: rgb(233, 227, 199);
+$jcolorOrange: rgb(221, 90, 18);
+$jcolorBlack: #d9ce9d;
+.ninth_section_container {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	box-sizing: border-box;
+	display: flex;
+}
+
+.ninth_ninth_wrhalf {
+	position: relative;
+	height: 100%;
+	width: 50%;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	&:hover {
+		.nth_nth_wrapsocialtag {
+			opacity: 0.9;
+		}
+	}
+}
+
+.ninth_ninth_wrhalf_f {
+	background: url('../media/ninth_sec/nth_f_img.webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 40%;
+}
+
+.ninth_ninth_wrhalf_s {
+	background: url('../media/ninth_sec/nth_s_img.webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 45%;
+}
+
+.nth_nth_overlaybg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-color: #000;
+	opacity: 0.6;
+	transition: 0.4s;
+	&:hover {
+		opacity: 0.3;
+	}
+}
+
+.nth_nth_wrapsocialtag {
+	position: absolute;
+	min-width: 50%;
+	height: 25px;
+	left: 20px;
+	bottom: 20px;
+	opacity: 0.7;
+	display: flex;
+	align-items: center;
+	transition: 0.3s;
+	a {
+		color: red;
+		font-size: 10px;
+		text-transform: uppercase;
+		margin-left: 10px;
+		letter-spacing: 1px;
+		cursor: pointer;
+		color: $jcolorBlack;
+		text-decoration: none;
+	}
+}
+
+.nthnth_wrsocialicon_insta {
+	background: url('../media/social_icons/instagram.png');
+	background-size: 80%;
+}
+
+.nthnth_wrsocialicon_twitt {
+	background: url('../media/social_icons/twitter.png');
+}
+
+.nthnth_wrsocialicon {
+	display: block;
+	height: 25px;
+	width: 25px;
+	opacity: 0.8;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.nthnth_wrsocialicon_insta {
+	background-size: 90%;
+}
+
+@media screen and (max-width: 960px) {
+	.ninth_ninth_wrhalf {
+		width: 100%;
+	}
+	.ninth_section_container {
+		flex-direction: column;
+	}
+	.ninth_ninth_wrhalf_f {
+		background-position: 50% 50%;
+	}
+	.ninth_ninth_wrhalf_s {
+		background-position: 50% 70%;
+	}
+}
+
+@media screen and (max-width: 780px) {
+	.nth_nth_overlaybg {
+		opacity: 0.4;
+		&:hover {
+			opacity: 0.4;
+		}
+	}
+}
+
