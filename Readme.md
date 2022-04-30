@@ -32,6 +32,7 @@
 - HTML, SCSS, Javascript
 - React.js, React-redux, React-router
 - Three.js
+- Photoshop
 
 
 ![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercejager/gh-pages/static/media/1.png)
